@@ -1,0 +1,15 @@
+[
+  {
+    "datetime": 1783881118,
+    "files": [
+      {
+        "filename": "lineage-23.2-20260712-UNOFFICIAL-r9s-signed.zip",
+        "sha256": "3706666b6e5ad4edcbd2668846b75d72",
+        "size": 1270459627,
+        "url": "https://github.com/Daubfy/los_ota/releases/download/2026-07-12/lineage-23.2-20260712-UNOFFICIAL-r9s-signed.zip"
+      }
+    ],
+    "type": "unofficial",
+    "version": "23.2"
+  }
+]
