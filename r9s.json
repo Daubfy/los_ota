@@ -1,14 +1,14 @@
 [
   {
-    "datetime": 1783887252,
+    "datetime": 1783951426,
     "files": [
       {
-        "filename": "lineage-23.2-20260712-UNOFFICIAL-r9s-signed.zip",
-        "sha256": "f86d5534d1e5a815ddb0c0293358458d863c1fcde83ea63f25c678b001c5a001",
+        "filename": "lineage-23.2-20260713-UNOFFICIAL-r9s.zip",
+        "sha256": "1f54b9244c6d5cb62ad58468c2823de54a361d478d5ceb4b79c316bc1f8802bd",
         "os_sdk_level": 36,
         "os_patch_level": "2026-07-01",
-        "size": 1271463122,
-        "url": "https://github.com/Daubfy/los_ota/releases/download/2026-07-12/lineage-23.2-20260712-UNOFFICIAL-r9s.zip"
+        "size": 1271337779,
+        "url": "https://github.com/Daubfy/los_ota/releases/download/2026-07-13/lineage-23.2-20260713-UNOFFICIAL-r9s.zip"
       }
     ],
     "type": "unofficial",
